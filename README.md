@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **NodeJS, ReactJS**.
 
-- 💬 Ask me about **Angular 1+, JavaScript, AgGrid, CSS**.
+- 💬 Ask me about **Angular 1+, JavaScript, AgGrid-Charts, AgGrid-Tables, CSS**.
 
 - 📫 How to reach me **singh.shashank2798@gmail.com**
 
