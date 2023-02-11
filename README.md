@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **singh.shashank2798@gmail.com**
 
-- 📄 Know about my experiences (<a target="blank" href="https://github.com/shank252127/Resume/blob/main/Shashank_Resume.pdf"> check my resume </a>)
+- 📄 Know about my experiences (<a target="blank" href="https://github.com/shank252127/Resume/blob/main/Shashank_Resume_up.pdf"> check my resume </a>)
 
 - ⚡ Fun fact:  **I think I can solve the bugs.**
 
